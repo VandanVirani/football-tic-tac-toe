@@ -7,7 +7,6 @@ class Tic_tac_toe:
             self.e=1500
             self.b=1050
             self.a= self.b
-
             self.winner = self.pygame.image.load("C:\\Users\\Ravi\\Desktop\\nn tic\\winner.jpg")
             self.winner = self.pygame.transform.scale(self.winner,(self.e,self.b))
 

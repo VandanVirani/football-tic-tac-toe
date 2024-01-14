@@ -1,0 +1,26 @@
+{
+  "near_wall_roi": [
+    236,
+    230,
+    652,
+    273
+  ],
+  "front_wall_roi": [
+    156,
+    171,
+    393,
+    315
+  ],
+  "near_wall_camera": "http://192.168.141.215:8080/video",
+  "front_wall_camera": "http://192.168.141.215:8080/video",
+  "lower_red": [
+    0,
+    128,
+    116
+  ],
+  "upper_red": [
+    12,
+    255,
+    255
+  ]
+}
